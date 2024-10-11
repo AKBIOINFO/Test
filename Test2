@@ -1,0 +1,16 @@
+id	site	distance 	identity 	comments
+XP_003857815.1	plas	25	 extr 2	 E.R. 2
+XP_003857816.1	mito	11.5	 mito_pero 8	 cyto 4.5
+XP_003857817.1	nucl	18	 cyto_nucl 16	 cyto 12
+XP_003857818.1	mito	28	 nucl 1.5	 cyto_nucl 1.5
+XP_003857819.1	cyto	23	 mito 5	 nucl 3
+XP_003857820.1	mito	17	 nucl 7	 cyto 3
+XP_003857821.1	nucl	19.5	 cyto_nucl 15.5	 cyto 10.5
+XP_003857822.1	extr	16.5	 extr_plas 9.5	 mito 6
+XP_003857823.1	extr	15	 cyto_nucl 7.33333	 cyto 6.5
+XP_003857824.1	mito	22.5	 mito_pero 13.5	 extr 6
+XP_003857825.1	nucl	21.5	 cyto_nucl 17	 cyto 7.5
+XP_003857826.1	nucl	21.5	 cyto_nucl 15	 cyto 7.5
+XP_003857827.1	extr	22	 cyto 6.5	 cyto_nucl 6.5
+XP_003857828.1	mito	19	 cyto 10.5	 mito_pero 10.5
+XP_003857829.1	extr	14	 nucl 12	 cyto_nucl 11
